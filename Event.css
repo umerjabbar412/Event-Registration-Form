@@ -1,0 +1,82 @@
+#event
+{
+    color: whitesmoke;
+    background-color: black;
+    padding: 1.5%;
+    text-align: center;
+}
+#name
+{
+    margin-left: 25%;
+}
+#first
+{
+    margin-left: 6.85%;
+    width: 10%;
+    padding-bottom: 0.5%;
+}
+#first1
+{
+    margin-left: 0.4%;
+    width: 12.60%;
+    padding-bottom: 0.5%;
+}
+#com
+{
+    margin-left: 5%;
+    width: 24%;
+    padding-bottom: 0.5%;
+}
+#email
+{
+    padding-bottom: 0.5%;
+    margin-left: 6.5%;
+    width: 23.95%;
+}
+#phone
+{
+    margin-left: 6.75%;
+    width: 24.05%;
+    padding-bottom: 0.5%;
+}
+#select
+{
+    margin-left: 6%;
+    width: 24.80%;
+    padding-bottom: 0.5%;
+}
+#radio
+{
+    margin-left: 25%;
+}
+#radio1
+{
+    margin-left: 3%;
+}
+#reg
+{
+    margin-left: 35%;
+    color: whitesmoke;
+    border-style: groove;
+    border-color: blueviolet;
+    background-color: blueviolet;
+}
+#copy
+{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
